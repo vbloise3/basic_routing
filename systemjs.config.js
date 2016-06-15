@@ -11,7 +11,7 @@ System.config({
         '@angular'                    : 'node_modules/@angular'
     },
     packages: {
-        'app'                              : {main: 'main_child_route.ts', defaultExtension: 'ts'},
+        'app'                              : {main: 'main_aux.ts', defaultExtension: 'ts'},
         'rxjs'                             : {main: 'index.js'},
         '@angular/core'                    : {main: 'index.js'},
         '@angular/common'                  : {main: 'index.js'},
