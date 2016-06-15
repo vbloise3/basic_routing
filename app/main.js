@@ -34,3 +34,4 @@ platform_browser_dynamic_1.bootstrap(RootComponent, [
     router_1.ROUTER_PROVIDERS,
     { provide: common_1.LocationStrategy, useClass: common_1.HashLocationStrategy }
 ]);
+//# sourceMappingURL=main.js.map

@@ -22,3 +22,4 @@ var ProductDetailComponent = (function () {
     return ProductDetailComponent;
 }());
 exports.ProductDetailComponent = ProductDetailComponent;
+//# sourceMappingURL=product.js.map
