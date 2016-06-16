@@ -10,7 +10,7 @@ System.config({
     packages: {
         "app": {
             "defaultExtension": "ts",
-            "main": "main_aux.ts"
+            "main": "main_lazy.ts"
         }
     }
 });
